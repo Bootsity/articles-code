@@ -1,6 +1,6 @@
 # What is SQL Injection and how to fix it
 
-Code for article [Article]()
+Code for article [Article](https://bootsity.com/php/what-is-sql-injection-and-how-to-fix-it)
 
 ## Using this code
 
